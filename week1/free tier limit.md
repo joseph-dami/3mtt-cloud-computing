@@ -1,4 +1,4 @@
-## Azure Free Tier Services
+## Azure Free Tier Services Limit
 
 | Service | Limit |
 |----------|----------|
